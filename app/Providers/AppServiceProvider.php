@@ -15,6 +15,9 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         Schema::defaultStringLength(191);
+        // $this->app->concord->registerModel(
+        //     \Mega\HelloWorld\src\Contracts\HelloWorld::class, \Mega\HelloWorld\src\Models\Demo::class
+        // );
     }
 
     /**
