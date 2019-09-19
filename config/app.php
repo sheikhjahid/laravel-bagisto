@@ -247,7 +247,7 @@ return [
         Webkul\Discount\Providers\DiscountServiceProvider::class,
         Webkul\CMS\Providers\CMSServiceProvider::class,
         Mega\HelloWorld\Providers\HelloWorldServiceProvider::class,
-        // \Mega\HelloWorld\Providers\ModuleServiceProvider::class
+        // Mega\HelloWorld\Providers\ModuleServiceProvider::class
 
     ],
 

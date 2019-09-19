@@ -13,6 +13,6 @@ class HelloWorldRepository extends Repository
     */
     function model()
     {
-        return 'Mega\HelloWorld\Contracts\HelloWorld';
+        return 'Mega\HelloWorld\Contracts\Demo';
     }
 }

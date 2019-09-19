@@ -21,6 +21,6 @@ return [
         \Webkul\User\Providers\ModuleServiceProvider::class,
         \Webkul\Discount\Providers\ModuleServiceProvider::class,
         \Webkul\CMS\Providers\ModuleServiceProvider::class,
-        \Mega\HelloWorld\Providers\ModuleServiceProvider::class
+        // \Mega\HelloWorld\Providers\ModuleServiceProvider::class
     ]
 ];
